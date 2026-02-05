@@ -1,6 +1,6 @@
 # LionCorpLabs 🦁
 
-Welcome to **LionCorpLabs** — a hobby-driven GitHub organization dedicated to creating, maintaining, and sharing **high-quality open source software** for the benefit of the world.
+Welcome to **LionCorpLabs** — a hobby-driven GitHub organization dedicated to creating, maintaining, and sharing **high-quality open source software** for the benefit of the world. Basically, if you happen to have any weekend fun hobby projects, feel free to release them here!
 
 ## 🌍 Our Mission
 
